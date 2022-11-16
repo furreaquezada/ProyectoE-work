@@ -1,0 +1,14 @@
+			*{margin:0; padding:0;}
+			
+			.cuerpo{
+				 background-image: url('https://facultadeducacion.uct.cl/wp-content/uploads/2015/12/economica-nota-22.jpg');
+				-webkit-background-size:cover;
+				-moz-background-size:cover;
+				-o-background-size:cover;
+				background-size:cover;
+				background-repeat: no-repeat;
+				
+				}
+			.titulo1{
+				color:Red;
+			}
