@@ -1,55 +1,58 @@
-			*{margin:0; padding:0;}
+			*{margin:0 auto;}
 			
 
 			.cuerpo {
  				background: url('https://facultadeducacion.uct.cl/wp-content/uploads/2015/12/economica-nota-22.jpg'); 
   				background-size: cover;
  				background-repeat: no-repeat;
-  				margin: 0;
- 				height: 100vh;
 				}
+
 			.titulo1{
 				color:Red;
-				text-align:center
+				text-align:center;
 			}
 
+			.d1{
+				background-color:#A90000;
+ 				background-repeat: no-repeat;
+				border-radius: 6px;
+				border: 2px solid #d57327;
+				margin: 330px 670px 0px 670px;
+				padding:10px;
+				}
 
 			.Boton1{
 					
 				text-decoration: none;
-				
-				padding: 10px;
+				padding: 30px;
 				font-weight: 600;
 				font-size: 20px;
 				color: black;
 				background-color: #e67300;
 				border-radius: 6px;
 				border: 2px solid #0016b0;
-				margin: 45%;
 				}
+
 			.Boton2{
 					
 				text-decoration: none;
-				
-				padding: 10px;
+				padding: 22px;
 				font-weight: 600;
 				font-size: 20px;
 				color: black;
 				background-color: #e67300;
 				border-radius: 6px;
 				border: 2px solid #0016b0;
-				margin: 45%;
 				}
+
 			.Boton3{
 					
 				text-decoration: none;
-				
-				padding: 10px;
+				padding: 9px;
 				font-weight: 600;
 				font-size: 20px;
 				color: black;
 				background-color: #e67300;
 				border-radius: 6px;
 				border: 2px solid #0016b0;
-				margin: 45%;
 				}

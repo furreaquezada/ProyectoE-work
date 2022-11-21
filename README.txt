@@ -9,3 +9,9 @@ git push -u origin main //sube una actualizacion
 
 colores para botones y texto
 https://www.colorbook.io/colorschemes
+
+centrar tablas
+http://respag.net/c%C3%B3mo-centrar-una-tabla-en-html.aspx
+
+Margen
+https://developer.mozilla.org/es/docs/Web/CSS/margin
