@@ -6,3 +6,6 @@ git commit -m "descripcion"
 git branch -m main
 git remote add origin"url" //sube repositorio completo
 git push -u origin main //sube una actualizacion
+
+colores para botones y texto
+https://www.colorbook.io/colorschemes
