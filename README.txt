@@ -15,3 +15,6 @@ http://respag.net/c%C3%B3mo-centrar-una-tabla-en-html.aspx
 
 Margen
 https://developer.mozilla.org/es/docs/Web/CSS/margin
+
+Crear tablas
+https://blog.hubspot.es/website/tablas-html

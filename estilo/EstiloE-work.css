@@ -20,6 +20,7 @@
 				margin: 330px 670px 0px 670px;
 				padding:10px;
 				}
+			
 
 			.Boton1{
 					
@@ -49,6 +50,18 @@
 					
 				text-decoration: none;
 				padding: 9px;
+				font-weight: 600;
+				font-size: 20px;
+				color: black;
+				background-color: #e67300;
+				border-radius: 6px;
+				border: 2px solid #0016b0;
+				}
+
+			.BotonInicioDeSesion{
+				
+				text-decoration: none;
+				padding: 20px 18px 0px 0px;
 				font-weight: 600;
 				font-size: 20px;
 				color: black;
