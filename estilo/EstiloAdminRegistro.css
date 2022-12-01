@@ -1,0 +1,49 @@
+				*{margin:0 auto; padding:0;}
+
+			.cuerpo {
+ 				background: url('https://img.freepik.com/free-vector/dark-hexagonal-background-with-gradient-color_79603-1410.jpg?w=1380&t=st=1669055544~exp=1669056144~hmac=51487d1571f2cb61f24b29229203198da786f1249abcbe3847bf7beaa51ec038'); 
+  				background-size: cover;
+ 				background-repeat: no-repeat;
+				
+				}
+
+			.titulo1{
+				color:Red;
+				
+				}
+
+			.d1{
+				background-color:#A90000;
+ 				background-repeat: no-repeat;
+				border-radius: 6px;
+				border: 2px solid #d57327;
+				margin: 230px 670px 0px 670px;
+				padding:10px;
+				}
+
+			.Tabla1{
+				
+			.nombre{
+				text-align:center
+				}	
+				}
+			.BarraEnviar{
+				text-align:center
+				}
+
+			.BarraVolver{
+				text-align:center
+				}
+
+			.BotonVolver{
+					
+				text-decoration: none;
+				padding: 10px;
+				font-weight: 600;
+				font-size: 20px;
+				color: black;
+				background-color: #e67300;
+				border-radius: 6px;
+				border: 2px solid #0016b0;
+				
+				}
